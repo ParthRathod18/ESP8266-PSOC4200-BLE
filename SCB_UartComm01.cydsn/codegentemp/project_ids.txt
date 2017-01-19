@@ -1,0 +1,6 @@
+C:\Users\Parth\Documents\PSoC Creator\SCB_UnconfiguredComm01\SCB_UartComm01.cydsn\SCB_UartComm01.cyprj|091a9cdc-1529-4d94-841a-ce61daa1559d
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|45796c0d-b792-413c-8d39-44b7cc19874e
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|3ce4eb39-abbd-47c9-b565-3e74fe9ffaf8
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|101166be-d855-4b6b-b06a-161e4d03bd8c
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|73d38f7c-1544-4081-a623-561e75672b1b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|bd9de92c-6cab-4674-9577-04bd6deaeb7e
